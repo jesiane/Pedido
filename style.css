@@ -7,10 +7,8 @@
   padding: 0;
 }
 
-
 body{
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(180deg, rgba(255,0,31,1) 44%, rgba(255,0,112,1) 60%);
 }
 
 #pedido {
@@ -39,15 +37,11 @@ footer{
   position:fixed;
   bottom: 5%;
   font-size: 13px;
-  color:#FFF;
+  color:#FFF; 
 }
 
-footer a{
-  text-decoration: none;
-  font-weight: bold;
-  color:#FFF;
+footer p{
+  text-align: center;
 }
 
-footer i{
-  color: rgb(30, 0, 139);
-}
+
